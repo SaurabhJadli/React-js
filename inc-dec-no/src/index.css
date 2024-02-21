@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:turquoise;
+}
+
+.heading {
+  text-align: center;
+  background-color: blue;
+}
+
+.app {
+  text-align: center;
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+
+  
+}
+
+.num {
+  margin: 1rem;
+}
+
+.btn {
+  background-color: bisque;
+  border-radius: 5px;
+  width: 70px;
+  height: 40px;
+
+}
+
+.btn:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: darkred;
+}
